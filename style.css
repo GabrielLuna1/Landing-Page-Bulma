@@ -1,0 +1,237 @@
+.navbar{
+  background: var(--cor-gradiente-inicio); /* Fallback */
+  background: linear-gradient(to right, 
+    var(--cor-gradiente-inicio) 0%, 
+    var(--cor-gradiente-meio1) 37%, 
+    var(--cor-gradiente-meio2) 68%, 
+    var(--cor-gradiente-fim) 100%);
+}
+
+
+:root{
+    --color-main : #f1cdb3;
+    --color-white: white;
+    --color-btn: #292929;
+    --color-cinzaclaro: #cdcdcd;
+    --color-cinza: #545454;
+    --cor-gradiente-inicio: rgba(70,57,49,1);
+    --cor-gradiente-meio1: rgba(60,49,43,1);
+    --cor-gradiente-meio2: rgba(41,36,36,1);
+    --cor-gradiente-fim: rgba(27,27,29,1);
+    --bk-color1:#f6f6f6;
+
+}
+
+.bk-color{
+  background: var(--cor-gradiente-inicio); /* Fallback */
+  background: linear-gradient(to right, 
+  var(--cor-gradiente-inicio) 0%, 
+  var(--cor-gradiente-meio1) 37%, 
+  var(--cor-gradiente-meio2) 68%, 
+  var(--cor-gradiente-fim) 100%);                            
+}
+
+a.navbar-item {
+    color: var(--color-white) !important;
+}
+
+.title,
+.title2,
+.title3,
+.title4 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 100;
+}
+
+
+.title{
+    color: var(--color-white);
+    font-weight: 100;
+    font-size: 3.5em;
+}
+
+.title2{
+    font-size: 2.5em;
+    color: var(--color-cinza);
+    font-weight: 100;
+}
+
+.title3{
+    color: var(--color-cinza);
+}
+
+.gl-esp{
+    margin: 20px auto;
+}
+
+.color-p1{
+    color: var(--color-cinzaclaro);
+    margin: 30px auto;
+}
+
+.color-p2{
+    color: var(--color-cinza);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.color-p3{
+  color: var(--color-main);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.color-p3 img{
+  margin-bottom: -7px;
+  margin-right: 13px;
+}
+
+
+
+
+
+a.navbar-item:hover{
+    background-color: transparent !important;
+    border-bottom: 3px solid var(--color-main);
+}
+
+.navbar-item img{
+    max-height: 3.75rem;
+    margin: 30px;
+    border-bottom: none !important;
+   
+}
+
+.navbar-item img:hover{
+    border-bottom: none !important;
+}
+a.navbar-burger{
+    color: var(--color-white)
+}
+
+.navbar-brand{
+   height: 6em;
+}
+
+
+
+button.button.is-primary{
+    background-color: var(--color-main);
+    color:var(--color-btn);
+    padding: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button.button.is-primary:hover{
+    background-color: var(--color-main);
+    color:var(--color-btn);
+}
+
+
+.bk-color1{
+    background-color: var(--bk-color1);
+}
+
+
+/* Estilos personalizados para o slider */
+.slider-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .slick-slide {
+    padding: 0 10px; /* Adiciona espaçamento entre os slides */
+  }
+  .slick-slide img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .slide-content {
+    text-align: center;
+  }
+  .slide-content h4 {
+    margin-top: 10px; /* Adiciona espaçamento entre a imagem e o título */
+  }
+  .slide-content button {
+    margin-top: 10px; /* Adiciona espaçamento entre o título e o botão */
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: var(--color-white);
+    color: var(--color-cinza);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    border: 2px solid var(--color-main);
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  .slide-content button:hover {
+    background-color: var(--color-main);
+  }
+
+
+button.slick-prev.slick-arrow{
+    display: none !important;
+}
+
+button.slick-next.slick-arrow{
+    display: none !important;
+}
+
+.image-container {
+    display: inline-block;
+    margin: 20px;
+    padding: 50px;
+  }
+
+  .image-container img {
+    width: auto; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Para manter a proporção da imagem */
+  }
+
+.gl-centro{
+    text-align: center;
+}
+
+button.bk-cartão {
+    background-color: var(--color-main);
+    width: auto;
+    padding: 20px;
+    color: var(--color-cinza);    
+}
+
+.bk-cartão img{
+    margin-right: 10px;
+    margin-bottom: -5px;
+}
+
+.text-i{
+    font-style: italic;
+    color: var(--color-cinza);
+}
+
+/* Estilos para a seção */
+ /* Estilos para a seção */
+ .section1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    
+  }
+  .section1-left img {
+    width: 285px; /* Defina a largura desejada para a imagem */
+    order: 2; /* Muda a ordem da imagem para o final */
+  
+  }
+  .section1-middle, .section1-right {
+    margin: 20px;
+  }
+  .section1-right h2, .section1-middle h2 {
+    margin-bottom: 10px;
+    
+  }
+
+  .title4{
+    color: var(--color-white);
+    font-weight: 100;
+    font-size: 1.5em;
+}
