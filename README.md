@@ -22,7 +22,7 @@ Este projeto simples teve como objetivo principal testar as funcionalidades ofer
 
 Para começar, optei por utilizar um design pré-existente como base para minha landing page. O design escolhido oferecia uma estrutura simples e atrativa, e embora tenha feito algumas modificações em imagens preexistentes do projeto, fiz questão de manter a integridade visual original. Minhas mudanças foram sutis,apenas modificando o banner e o footer. Além disso, devido à simplicidade do projeto, optei por não implementar um menu mobile com JavaScript, mantendo assim a funcionalidade mínima necessária para o propósito do site.
 
-Link design pré-existente:[Design]([https://downloadpsd.cc/templates/animal-shelter-website-template-psd](https://downloadpsd.cc/templates/animal-shelter-website-template-psd)")
+Link design pré-existente:[Design](https://downloadpsd.cc/templates/animal-shelter-website-template-psd)
 
 
 O Bulma se revelou uma escolha fantástica para este projeto. Sua simplicidade e flexibilidade tornaram o processo de desenvolvimento suave e eficiente. Desde a estruturação básica do layout até os detalhes de estilização, o Bulma ofereceu uma ampla gama de componentes e utilitários que facilitaram minha vida como desenvolvedor.
