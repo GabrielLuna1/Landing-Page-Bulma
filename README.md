@@ -35,6 +35,8 @@ Se estiver interessado em conferir o resultado final ou tiver alguma dúvida sob
 
 Até mais, Gabriel.
 
+![screencapture](https://github.com/GabrielLuna1/Landing-Page-Bulma/assets/102186692/0856cb1b-30e6-4b92-9057-72c79ca31b64)
+
 
 
 
