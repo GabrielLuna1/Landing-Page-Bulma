@@ -31,7 +31,7 @@ Além do Bulma, decidi adicionar um toque extra de dinamismo à página, incorpo
 
 No final, o resultado foi uma landing page moderna e funcional, que não apenas atendeu aos meus objetivos de teste do Bulma, mas também proporcionou uma experiência agradável aos usuários que a visitam. Estou satisfeito com o resultado alcançado e continuo ansioso para explorar ainda mais as possibilidades oferecidas pelo Bulma e outras ferramentas de desenvolvimento web em meus projetos futuros.
 
-Se estiver interessado em conferir o resultado final ou tiver alguma dúvida sobre o processo de criação, sinta-se à vontade para entrar em contato. Estou sempre aberto para compartilhar minha experiência e conhecimento com outros entusiastas do desenvolvimento web.
+Se estiver interessado em conferir o resultado final ou tiver alguma dúvida sobre o processo de criação, sinta-se à vontade para entrar em contato. Estou disponível para conversar e para compartilhar minha experiência e conhecimento com outros entusiastas do desenvolvimento web.
 
 Até mais, Gabriel.
 
