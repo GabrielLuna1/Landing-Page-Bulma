@@ -4,7 +4,7 @@
 
 
 Olá! pessoal! 👋 
-Sou Gabriel Luna, um entusiasta do desenvolvimento web, e recentemente mergulhei na criação de uma landing page utilizando o framework Bulma. Este é o meu segundo projeto postado no Git, e decidi começar com algo mais simples após o primeiro projeto, 
+Sou Gabriel Luna, um desenvolvedor front-end jr em aprenziado e recentemente mergulhei na criação de uma landing page utilizando o framework Bulma. Este é o meu segundo projeto postado no Git, e decidi começar com algo mais simples após o primeiro projeto, 
 visando explorar o Bulma e suas funcionalidades.
 
 ---
