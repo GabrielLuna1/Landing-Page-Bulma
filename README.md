@@ -35,6 +35,11 @@ Se estiver interessado em conferir o resultado final ou tiver alguma dúvida sob
 
 Até mais, Gabriel.
 
+ <div> 
+  <a href = "mailto:gabriellunajob@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-luna-14b00821b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div><Br>
+
 ![screencapture](https://github.com/GabrielLuna1/Landing-Page-Bulma/assets/102186692/0856cb1b-30e6-4b92-9057-72c79ca31b64)
 
 
